@@ -1,0 +1,1 @@
+This is a simple project where I attempt to create a basic website using HTML. The site has a main page with links and each link leads to a different recipe.
